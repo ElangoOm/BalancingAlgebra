@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BalancingAlgebra</string>
+    <string name="about_focus">Focus Minds</string>
+    <string name="focusMindsDetails"><h1>Developed by Focus Minds Team.\n</h1>
+    <h1> Visit : www.focusminds.in</h1></string>
+    <string name="about_mathhlove">Math Love</string>
+    <string name="mathloveDetails"><h1>For More Details\n</h1>
+    <h1> Visit :https://www.facebook.com/passionformath/</h1></string>
+</resources>
